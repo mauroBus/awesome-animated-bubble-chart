@@ -1,0 +1,4 @@
+export const FETCH_START = 'FETCH.START'
+export const FETCH_CANCEL = 'FETCH.CANCEL'
+export const FETCH_SUCCESS = 'FETCH.SUCCESS'
+export const FETCH_FAILURE = 'FETCH.FAILURE'
