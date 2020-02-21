@@ -1,0 +1,14 @@
+{
+  "main_css": "/static/css/main.b6081311.chunk.css",
+  "main_js": "/static/js/main.2c745f01.chunk.js",
+  "main_js_map": "/static/js/main.2c745f01.chunk.js.map",
+  "runtime_main_js": "/static/js/runtime~main.9e332df8.js",
+  "runtime_main_js_map": "/static/js/runtime~main.9e332df8.js.map",
+  "vendors_main_js": "/static/js/vendors~main.bda30c26.chunk.js",
+  "vendors_main_js_map": "/static/js/vendors~main.bda30c26.chunk.js.map",
+  "bg_jpg": "/bg.jpg",
+  "favicon_ico": "/favicon.ico",
+  "index_html": "/index.html",
+  "locales_json": "/locales.json",
+  "static_css_main_b6081311_chunk_css_map": "/static/css/main.b6081311.chunk.css.map"
+}
