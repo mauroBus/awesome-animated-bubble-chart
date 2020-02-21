@@ -1,0 +1,6 @@
+@import "../../../styles/variables.css";
+
+.toggle {
+  display: flex;
+  justify-content: center;
+}
