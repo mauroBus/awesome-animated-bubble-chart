@@ -1,0 +1,28 @@
+@import "../../../styles/variables.css";
+
+.bubble {
+  fill: currentColor;
+  transition: fill 0.4s ease, opacity 0.4s ease, stroke 0.4s ease;
+  stroke: var(--white);
+  stroke-width: 2;
+
+  &:focus {
+    outline: none;
+    stroke: var(--color-theme);
+  }
+}
+
+.lowBubble {
+  composes: bubble;
+  fill: var(--tango);
+}
+
+.mediumBubble {
+  composes: bubble;
+  fill: var(--yellow);
+}
+
+.highBubble {
+  composes: bubble;
+  fill: var(--green);
+}
