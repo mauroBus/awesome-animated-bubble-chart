@@ -1,0 +1,6 @@
+@import "../../styles/variables.css";
+
+.bubbleChartContainer {
+  background-color: var(--blue-grey);
+  width: 100%;
+}
