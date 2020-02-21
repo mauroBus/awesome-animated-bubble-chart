@@ -82,4 +82,4 @@ The app uses `format-message` as an example of internationalization.
 
 ## License
 
-[MIT](https://github.com/mauroBus/todos-app-react-redux-typescript/blob/master/LICENSE.md)
+[MIT](https://github.com/mauroBus/awesome-animated-bubble-chart/blob/master/LICENSE)

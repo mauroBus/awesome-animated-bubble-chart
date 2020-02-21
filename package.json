@@ -131,7 +131,6 @@
     "d3-selection": "^1.4.1",
     "format-message": "^6.2.3",
     "gh-pages": "^2.2.0",
-    "ic": "^0.7.11",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-redux": "^7.1.3",
