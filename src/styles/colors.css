@@ -1,0 +1,29 @@
+/* Here you can define any color that belong to the styleguide */
+
+:root {
+  --black: #000;
+  --white: #fff;
+  --blue: #009ed2;
+  --blue-grey: #596778;
+  --medium-grey: #b9c0cb;
+  --light-grey: #f5f5f5;
+  --red: #ee354b;
+  --violet: #c135ee;
+  --green: #38d49b;
+  --cyan: #27e9ff;
+  --tango: #ff6c02;
+  --grad-wide-green: #00b385;
+  --grad-medium-green: color(var(--grad-wide-green) blend(var(--grad-wide-blue) 15%));
+  --grad-narrow-green: color(var(--grad-wide-green) blend(var(--grad-wide-blue) 30%));
+  --grad-narrow-blue: color(var(--grad-wide-green) blend(var(--grad-wide-blue) 30%));
+  --grad-medium-blue: color(var(--grad-wide-blue) blend(var(--grad-wide-blue) 15%));
+  --grad-wide-blue: #3289e1;
+  --yellow: #ffc107;
+  --pink: #ed3685;
+  --navy: #071a32;
+  --color-theme: var(--blue);
+  --color-theme-hover: #2286ec;
+  --color-text-default: var(--blue-grey);
+  --color-background: var(--white);
+  --color-box-shadow: rgba(0, 0, 0, 0.15);
+}
