@@ -1,1 +1,1 @@
-web: yarn serve
+web: node ./json-server.js
