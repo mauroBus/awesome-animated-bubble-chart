@@ -9,6 +9,12 @@ The data is served by a static server that proxy the requests to a mocked JSON f
 
 Many other details of a real complex application were included to run this particular example setting up an app using React, Redux, TypeScript and Jest & Enzyme for unit testing.
 
+## Demo
+
+The running app can be seen here: [DEMO](https://awesome-animated-bubble-chart.herokuapp.com/)
+
+<img src="https://github.com/mauroBus/awesome-animated-bubble-chart/blob/assets/demo.png" alt="demo" width="500" />
+
 ## Run
 
 ```bash
